@@ -31,7 +31,7 @@ print(a is b)
 print(id(a))
 print(id(b))
 
-b = copy(a);
+b = copy(a)
 print(a)
 print(b)
 print(a is b)
